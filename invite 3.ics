@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20230125T163000Z
+DTEND:20230125T183000Z
+DTSTAMP:20230124T183443Z
+ORGANIZER;CN=team roc8:MAILTO:calendar-invite@lu.ma
+UID:evt-iJ6yoYdSPU49GFB@events.lu.ma
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=prakha
+ r.10.varshney@gmail.com;X-NUM-GUESTS=0:mailto:prakhar.10.varshney@gmail.com
+SUMMARY:Wednesday Night Hangout 
+DESCRIPTION:Get up-to-date information at: https://lu.ma/hangout-night-roc8
+ ?pk=g-NHQ8A7WKkrbWBz1\n\nClick to join: https://lu.ma/join/g-NHQ8A7WKkrbWBz
+ 1\nGet ready for a thrilling game of Among Us on video call! Join us as we 
+ put our detective skills to the test and try to spot the imposter among us.
+  🎭\n\nLet's see who will come out as the ultimate winner in this game of d
+ eception and deduction.🕵️‍♀️🕵️
+LOCATION:https://lu.ma/join/g-NHQ8A7WKkrbWBz1
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
